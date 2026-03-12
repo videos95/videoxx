@@ -41,7 +41,7 @@ images.forEach((img,i)=>{
   post.style.backgroundImage=`url('${img}')`;
 
   post.addEventListener('click',()=>{
-    window.location.href='https://partlypalpate.com/vk9pvyw8p?key=6c739a905f40e090a16cfdd6a851e970';
+    window.location.href='https://quarrybeforehandwillingly.com/vk9pvyw8p?key=6c739a905f40e090a16cfdd6a851e970';
   });
 
   post.innerHTML=`
